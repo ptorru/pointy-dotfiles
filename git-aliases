@@ -1,0 +1,16 @@
+# author: Pedro Torruella - (c) 2021
+# purpose: Some short-cut aliases for common Git operations
+# note: This file needs to be sourced!
+
+alias gitci='git commit -m'
+alias gitcm='git commit'
+alias gitco='git checkout'
+alias gitst='git status'
+alias gitad='git add -i'
+alias gitdf='git diff'
+alias gitpl='git pull'
+alias gitph='git push'
+alias gitbr='git branch'
+alias gitfe='git fetch'
+alias gitlg='git log'
+alias gitln='git log -n 1'
